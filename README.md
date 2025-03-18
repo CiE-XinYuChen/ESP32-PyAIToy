@@ -1,3 +1,5 @@
+This repo is Uploading, Comming soon.
+
 # ESP32-PyAIToy
 
 ## Open-Source AI Toy Powered by MicroPython
