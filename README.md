@@ -7,6 +7,8 @@ This repo is Uploading, Comming soon.
 **ESP32-PyAIToy** is a fully open-source AI toy project developed by **LinkerAI**, leveraging the capabilities of the powerful ESP32-WROOM-32E (or D0WD). This project includes complete hardware and software resources, providing both server and client components for seamless AI interactions.
 
 ---
+### Documentation is Developing, Coming soon...
+
 
 ### Features
 
