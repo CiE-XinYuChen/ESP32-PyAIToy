@@ -1,5 +1,3 @@
-This repo is Uploading, Comming soon.
-
 # ESP32-PyAIToy
 
 ## Open-Source AI Toy Powered by MicroPython
@@ -7,8 +5,10 @@ This repo is Uploading, Comming soon.
 **ESP32-PyAIToy** is a fully open-source AI toy project developed by **LinkerAI**, leveraging the capabilities of the powerful ESP32-WROOM-32E (or D0WD). This project includes complete hardware and software resources, providing both server and client components for seamless AI interactions.
 
 ---
+
 ### Documentation is Developing, Coming soon...
 
+---
 
 ### Features
 
@@ -23,6 +23,12 @@ This repo is Uploading, Comming soon.
 
 - **Asyncio Server Support**  
   Asynchronous, high-performance server implementation included, ensuring smooth and responsive operation.
+
+- **UDP/TCP Server Support**  
+  Built-in UDP and TCP server functionality, enabling versatile network communication.
+
+- **Bluetooth WiFi Configuration**  
+  Easy WiFi setup via Bluetooth, simplifying network configuration.
 
 - **Online ASR & TTS Services**  
   Integrated online Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities, powered by LinkerAI.
@@ -42,12 +48,13 @@ This repo is Uploading, Comming soon.
 
 Clone the repository and explore the hardware schematics, MicroPython firmware, and asyncio server/client examples to quickly begin developing your own AI-powered toy applications.
 
+*This repository is currently being uploaded. Content coming soon!*
+
 ---
 
 ### License
 
-This project is open-source under MIT Lisence. Contributions and community participation are warmly welcomed.
-
+This project is open-source under MIT License. Contributions and community participation are warmly welcomed.
 
 ---
 
